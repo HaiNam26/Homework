@@ -1,0 +1,18 @@
+body{
+    background: rgba(0, 0, 0, 0.7) url(https://ss-images.saostar.vn/pc/1680851009890/saostar-2ka5fti72hsf2wck.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    background-blend-mode: darken;
+}
+
+button{
+    color: aliceblue;
+    border: none;
+    padding: 10px 20px;
+    background-color: red;
+    border-radius: 20px;
+}

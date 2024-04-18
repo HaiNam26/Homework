@@ -1,0 +1,46 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%; 
+}
+
+body{
+    text-align: center;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.wraper{
+    background-color: aliceblue;
+    padding: 20px 0;
+}
+
+.header button{
+    background-color: rgb(0, 186, 223);
+    padding: 8px 32px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+.bs{
+    font-size: 36px;
+
+}
+
+.bs label{
+    color: blue;
+    font-weight: bold;
+}
+
+.bt,.bn{
+    margin-right: 20px;
+    padding:8px 20px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.btn{
+    margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.wraper{
+    background: white;
+    width: 400px;
+    padding: 10px;
+}
+
+.btn button{
+    border: none;
+    outline: none;
+    padding: 8px 24px;
+    margin: 4px;
+    background-color: #00bce2;
+    color: #fff;
+    border-radius: 2px;
+}

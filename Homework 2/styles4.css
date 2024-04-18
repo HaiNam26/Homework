@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wraper{
+    width: 550px;
+    background-color: aliceblue;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.to{
+    text-align: center;
+    font-size: 48px;
+    background-color: rgb(171, 171, 171);
+    padding: 120px 0;
+    color: #fff;
+    margin: 8px 0;
+}
+
+.ot{opacity: 50%;}
+
+button{
+    border: none;
+    outline: none;
+    padding: 8px 24px;
+    background-color: rgb(0, 167, 204);
+    color: #fff;
+    font-weight: bolder;
+}
