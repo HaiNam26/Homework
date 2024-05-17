@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 80px;
+    background-color: bisque;
+    border: 1px solid;
+    position: sticky;
+    top: 0px;
+}
+.avartar{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    border-radius: 30px;
+    border: 1px solid;
+}
+.my-shop{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    width: 400px;
+    justify-content: space-between;
+}
+.text{
+    margin-left: 8px;
+    font-weight: bold;
+}
+.cart{
+    background-color: aquamarine;
+    padding: 8px 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 213, 255);
+    cursor: pointer;
+}
+.body{
+    display: flex;
+    margin-top: 20px;
+}
+.left{
+    width: 200px;
+    height: 300px;
+    margin-left: 80px;
+    margin-right: 20px;
+    border: 2px solid;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: sticky;
+    top: 89px;
+}
+.right{
+    width: 100%;
+    height: 1495px;
+    margin-right: 80px;
+}
+.home,.about,.contact{
+    cursor: pointer;
+}
+.n1{
+    margin: 20px 0;
+}
+.categories{
+    font-weight: bold;
+    font-size: larger;
+}
+.btn1{
+    background-color: aquamarine;
+    height: 100%;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 132, 255);
+    cursor: pointer;
+}
+.footer{
+    background-color: bisque;
+    padding: 8px 80px;
+    margin-top: 40px;
+}
+.footer-text{
+    font-weight: bold;
+}
+.footer-text2{
+    display: flex;
+    margin-top: 8px;
+}
+.location{
+    margin-right: 40px;
+}
+.shearch i{
+    display: flex;
+    align-items: center;
+    margin-left: -24px;
+    cursor: pointer;
+}
+.shearch input{
+    width: 200px;
+    height: 28px;
+    padding-right: 28px;
+    border: none;
+    border-radius: 8px;
+    border: 1px solid gray;
+    padding-left: 8px;
+}
+.shearch{
+    display: flex;
+}
+.filter{
+    display: flex;
+    height: 28px;
+}
+.header-filter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    border: 1px solid;
+    background-color: antiquewhite;
+}
+.n2 select{
+    height: 100%;
+    border-radius: 8px;
+    width: 100px;
+    cursor: pointer;
+}
+.filter1{
+    margin-right: 12px;
+}
+.img{
+    width: 260px;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+}
+.price-pecent{
+    display: flex;
+    justify-content: space-between;
+}
+.pic{
+    width: 260px;
+    cursor: pointer;
+}
+.lorem{
+    margin: 12px 0;
+    font-weight: bold;
+}
+.price-pecent select{
+    border: none;
+    outline: none;
+    color: red;
+}
+.price-pecent p{
+    color: blue;
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.row2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.list{
+    margin: 40px 0;
+}
+.row3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.row4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
