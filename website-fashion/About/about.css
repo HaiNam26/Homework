@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ab-bo-ba-text{
+    text-align: center;
+    font-size: 70px;
+}
+
+.ab-bo-ba-sub{
+    text-align: center;
+    font-size: 24px;
+}
+
+.ab-bo-banner{
+    background-image: url(./Picture/Section\ 01.svg);
+    background-size: cover;
+    height: 691px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.ab-bo-sec2 p{
+    display: inline-block;
+    font-size: 38px;
+    width: 884px;
+    text-align: center;
+    justify-content: center;
+}
+
+.ab-bo-sec2{
+    display: flex;
+    justify-content: center;
+    height: 525px;
+    align-items: center;
+}
+
+.ab-bo-sec3-text h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.ab-bo-sec3-text p{
+    font-size: 14px;
+}
+
+.ab-bo-sec3{
+    display: flex;
+}
+
+.ab-bo-sec3-texts{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E6DED8;
+}
+
+.ab-bo-sec3-img{
+    width: 50%;
+}
+
+.ab-bo-sec3-img img{
+    height: 100%;
+    width: 100%;
+}
+
+.ab-bo-sec3-text{
+    width: 560px;
+}
+
+.ab-bo-sec4{
+    width: 100%;
+    height: 598px;
+}
+
+.ab-bo-sec4 img{
+    width: 100%;
+}
+
+.ab-bo-sec6{
+    display: flex;
+}
+
+.ab-bo-sec6 img{
+    width: 50%;
+}
+
+.ab-bo-sec7-img p{
+    text-align: center;
+    font-size: 16px;
+}
+
+.sec7-img{
+    width: 320px;
+}
+
+.ab-bo-sec7-img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ab-bo-sec7{
+    padding: 82px 200px;
+}
+
+.ab-bo-sec7-text{
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+}

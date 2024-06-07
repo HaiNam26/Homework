@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.st-bo-header{
+    text-align: center;
+}
+
+.store-body{
+    padding: 30px 35px;
+}
+
+.st-bo-body{
+    margin-top: 64px;
+    width: 423px;
+}
+
+.st-bo-bodys{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.st-bo-sub{
+    margin-top: 8px;
+    font-size: 10px;
+}
+
+.st-bo-text{
+    font-size: 16px;
+    margin-top: 4px;
+}
